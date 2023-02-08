@@ -33,7 +33,7 @@ requires = [
     'arrow>=1.0.0',
     'certifi',
     'click==7.1.2',
-    'cryptography>=3.2.1,<=3.4.7',
+    'cryptography>=3.2.1,<39.0.2',
     'jmespath==0.10.0',
     'python-dateutil>=2.5.3,<3.0.0',
     'pytz>=2016.10',
